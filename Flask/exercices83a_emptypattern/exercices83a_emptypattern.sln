@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "exercices83a_emptypattern", "exercices83a_emptypattern\exercices83a_emptypattern.pyproj", "{CF4E38F9-81C0-4EF8-8DB4-DEB7B4672551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4E38F9-81C0-4EF8-8DB4-DEB7B4672551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4E38F9-81C0-4EF8-8DB4-DEB7B4672551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BDBA582-D148-4A41-9AAC-21F507C45107}
+	EndGlobalSection
+EndGlobal
